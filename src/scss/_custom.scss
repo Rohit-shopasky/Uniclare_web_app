@@ -1,0 +1,13 @@
+// Here you can add other styles
+.sidebar .nav-dropdown-items {
+  margin-left: 20px;
+}
+
+.sidebar-fixed .app-header + .app-body .sidebar {
+  height: calc(100vh - 140px);
+  margin-top: 36px;
+}
+
+.app-footer {
+  margin-left: 0px !important;
+}
